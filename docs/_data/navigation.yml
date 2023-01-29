@@ -1,0 +1,10 @@
+main:
+  - title: "Projekte"
+    url: /projects/
+  - title: "Ideen"
+    url: /ideas/
+  - title: "Wissen"
+    url: /articles/
+  - title: "Blog"
+    url: /year-archive/
+

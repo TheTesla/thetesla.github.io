@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/articles/2023-01-29-xyzcad/</loc>
+<lastmod>2023-01-29T21:20:25+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ideas/2023-01-29-xyzcad/</loc>
+<lastmod>2023-01-29T21:20:25+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/jekyll/update/2022/11/12/welcome-to-jekyll.html</loc>
 <lastmod>2022-11-12T17:54:25+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/projects/2023-01-29-xyzcad/</loc>
+<lastmod>2023-01-29T21:20:25+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/articles/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/ideas/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/impressum/</loc>
@@ -15,5 +33,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/privacy/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/</loc>
 </url>
 </urlset>

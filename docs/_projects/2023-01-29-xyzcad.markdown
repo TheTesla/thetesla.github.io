@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "Welcome to Jekyll!"
-date:   2022-11-12 17:54:25 +0100
+title:  "xyzCad-Software"
+date:   2023-01-29 21:20:25 +0100
 header:
   teaser: /assets/images/Profilbild240.webp
 categories: jekyll update
