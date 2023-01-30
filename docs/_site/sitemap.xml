@@ -9,6 +9,10 @@
 <lastmod>2023-01-29T21:20:25+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/jekyll/update/2020/11/12/welcome-to-jekyll.html</loc>
+<lastmod>2020-11-12T17:54:25+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/jekyll/update/2022/11/12/welcome-to-jekyll.html</loc>
 <lastmod>2022-11-12T17:54:25+01:00</lastmod>
 </url>
@@ -36,5 +40,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/year-archive/</loc>
 </url>
 </urlset>
